@@ -1,0 +1,12 @@
+/*---------Para limpara estilos de listas-------------*/
+body{
+    margin: 20px;
+}
+ul{
+    padding: 0px;
+    padding: 0px;
+    list-style: square inside;/*podendo colocar foto tbm basta colocar a url*/
+}
+dl, dd{
+    margin: 0px;
+}
